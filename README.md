@@ -1,3 +1,7 @@
+<img width="720" height="1600" alt="Scroll_view_app_screenshot1" src="https://github.com/user-attachments/assets/dc054471-8946-426a-a6c1-d2ef34191aa7" />
+<img width="720" height="1600" alt="Scroll_view_app_screenshot3" src="https://github.com/user-attachments/assets/0fb8a5ba-7283-4296-bf17-7753d1d9a3fc" />
+<img width="720" height="1600" alt="Scroll_view_app_screenshot2" src="https://github.com/user-attachments/assets/7e0496b6-9b52-46db-9e17-bc3c204a6bfd" />
+<img width="720" height="1600" alt="Scroll_view_app_screenshot1" src="https://github.com/user-attachments/assets/f889e09a-f0db-44b2-84e8-baa2f08ad416" />
 # Scroll View App 📱
 
 A simple and responsive Android application demonstrating the use of `ScrollView` to handle long, scrollable content and text layouts effectively.
@@ -17,3 +21,7 @@ This project is part of a series of foundational Android applications developed 
 * **Platform:** Android
 * **IDE:** Android Studio
 
+
+<img width="360" height="800" alt="Scroll_view_app_screenshot1" src="https://github.com/user-attachments/assets/80fcf29c-3cd5-464e-861c-29094a41d19c" />
+<img width="360" height="800" alt="Scroll_view_app_screenshot2" src="https://github.com/user-attachments/assets/9b5aa2f8-dc1c-4570-8165-523300f37318" />
+<img width="360" height="800" alt="Scroll_view_app_screenshot3" src="https://github.com/user-attachments/assets/19aaea61-77ea-4a61-b6c0-bffcc6fdc5e4" />
